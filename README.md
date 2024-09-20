@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @remz-13
+# - 👋 Hi, I’m @remz-13
 - 👀 I’m interested in biking, coding, web development, programming, cheating, ethical hacking.
 - 🌱 I’m currently learning c++, c#, javascript.
 - 💞️ I’m looking to collaborate on ...
