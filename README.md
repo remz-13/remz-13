@@ -5,6 +5,8 @@
 - 📫 How to reach me: my discord: itsurboylj, my discord server: https://discord.gg/3mQng4A9UR
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im Colourblind
+- 💀 I don't post stuff i sell, because i would lose out on money.
+
 
 <!---
 remz-13/remz-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
