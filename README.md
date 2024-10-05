@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m @remz-13
-# - 👀 I’m interested in biking, coding, web development, programming, cheating, ethical hacking.
+# - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
 - 🌱 I’m currently learning on getting better at web development....
 - 💻 I'm pretty much always online, except from when im away at school, or out with family or friends.
 - 📫 How to reach me: my discord: itsurboylj, my discord server: https://discord.gg/3mQng4A9UR
