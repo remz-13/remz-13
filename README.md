@@ -2,13 +2,21 @@
 # - 👋 Hi, I’m @remz-13
 </h1>
 # > 💻 [My Website](https://remz-pages.nekoweb.org)
+
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
+
 - 🌱 I’m currently learning on getting better at web development....
+
 - 💻 I'm pretty much always online, except from when im away at school, or out with family or friends.
+
 - 📫 How to reach me: my discord: [itsurboylj](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd)
+
 - 😄 Pronouns: he/him
+
 - ⚡ Fun fact: Im Colourblind
+
 - 🐶 I have two dogs: Sunny, Cleo.
+
 <h1 align="center">
 Languages I Do:
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a> 
