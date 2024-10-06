@@ -9,7 +9,7 @@
 
 - 💻 I'm pretty much always online, except from when im away at school, or out with family or friends.
 
-- 📫 How to reach me: my discord: [itsurboylj](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd) <img src="https://imgs.search.brave.com/d_fA3VtpmIcQE1Uq7CF1cPMN_QXF7ZZu0_QBV0e7C4w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5nbG9nby5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTcwODcwMTI2/NmRpc2NvcmQtbG9n/by10cmFuc3BhcmVu/dC5wbmc" alt="discord" width="40" height="40" style="max-width: 100%;">
+- 📫 How to reach me: my discord: [itsurboylj](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd) <img src="[https://imgs.search.brave.com/d_fA3VtpmIcQE1Uq7CF1cPMN_QXF7ZZu0_QBV0e7C4w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5nbG9nby5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTcwODcwMTI2/NmRpc2NvcmQtbG9n/by10cmFuc3BhcmVu/dC5wbmc](https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png)" alt="discord" width="40" height="40" style="max-width: 100%;">
 
 
 - 😄 Pronouns: he/him
