@@ -9,7 +9,7 @@
 
 - 💻 I'm pretty much always online, except from when im away at school, or out with family or friends.
 
-- 📫 How to reach me: my discord: [<img src="https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png" alt="discord" width="40" height="40" style="max-width: 100%;">](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd) <img src="https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png" alt="discord" width="40" height="40" style="max-width: 100%;">
+- 📫 How to reach me: my discord: [<img src="https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png" alt="discord" width="20" height="20" style="max-width: 100%;">](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd) <img src="https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png" alt="discord" width="40" height="40" style="max-width: 100%;">
 
 
 - 😄 Pronouns: he/him
