@@ -1,5 +1,5 @@
 <h1 align="center">
-# - 👋 Hi, I’m remzzz :)
+- 👋 Hi, I’m remzzz :)
 </h1>
 
 # > 💻 [My Website](https://remz-pages.nekoweb.org/)
