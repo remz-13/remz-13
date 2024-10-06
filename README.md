@@ -1,8 +1,8 @@
 <h1 align="center">
 # - 👋 Hi, I’m @remz-13
 </h1>
-# > 💻 [My Website](https://remz-pages.nekoweb.org)
 
+# > 💻 [My Website](https://remz-pages.nekoweb.org/)
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
 
 - 🌱 I’m currently learning on getting better at web development....
