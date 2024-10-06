@@ -6,7 +6,6 @@
 - 📫 How to reach me: my discord: itsurboylj, my discord server: https://discord.gg/3mQng4A9UR
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im Colourblind
-- 💀 I don't post stuff i sell, because i would lose out on money.
 - 🐶 I have two dogs: Sunny, Cleo.
 
 <!---
