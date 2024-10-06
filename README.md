@@ -8,6 +8,9 @@
 - ⚡ Fun fact: Im Colourblind
 - 🐶 I have two dogs: Sunny, Cleo.
 
+#            Languages I Do:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
+
 <!---
 remz-13/remz-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
