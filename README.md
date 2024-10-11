@@ -19,6 +19,9 @@
 - 🐶 I have two dogs: Sunny, Cleo.
 
 <h1 align="center">
+<img src="https://imgs.search.brave.com/R1qv8QEHvwg9-DfJaKjN0x-LzjprkN6kEcZooHT9KeU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQzMGUxZWE2NTE1/YjFlMGFkNzViNTYu/cG5n" alt="anon" width="40" height="40" style="max-width: 100%;">
+
+<h1 align="center">
 Languages I Do:
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
