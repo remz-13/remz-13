@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: Im Colourblind
 
-- 🐶 I have two dogs: Sunny, Cleo.
+- 🐶 I have two dogs: Sunny, Cleo. <img src="https://cdn.discordapp.com/attachments/1197946295973851157/1294328025508348015/1000014285.jpeg?ex=670a9c68&is=67094ae8&hm=ac5abf1b75495a5d0f0d6744aa9056793298fc4ef7f32d89bb91b667d88f65d6&" alt="sunnyandcleoxx" width="40" height="40" style="max-width: 100%;">
 
 <h1 align="center">
 Languages I Do:
