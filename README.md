@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="http://i.hmp.me/m/62dba161f14399e6bac6001f9f714bf4.png" alt="anon" width="100" height="100 style="max-width: 100%;">
+<img src="https://cdn.discordapp.com/attachments/1197946295973851157/1294328025508348015/1000014285.jpeg?ex=670a9c68&is=67094ae8&hm=ac5abf1b75495a5d0f0d6744aa9056793298fc4ef7f32d89bb91b667d88f65d6&" alt="sunnyandcleoxx" width="60" height="70" style="max-width: 100%;">
 
 <h1 align="center">
 👋 Yo, I’m remzzz! :)
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: Im Colourblind
 
-- 🐶 I have two dogs: Sunny, Cleo. <img src="https://cdn.discordapp.com/attachments/1197946295973851157/1294328025508348015/1000014285.jpeg?ex=670a9c68&is=67094ae8&hm=ac5abf1b75495a5d0f0d6744aa9056793298fc4ef7f32d89bb91b667d88f65d6&" alt="sunnyandcleoxx" width="40" height="40" style="max-width: 100%;">
+- 🐶 I have two dogs: Sunny, Cleo. 
 
 <h1 align="center">
 Languages I Do:
