@@ -22,14 +22,21 @@
 - 🐶 I have two dogs: Sunny, Cleo.
 
 <h1 align="center">
-<img src="https://imgs.search.brave.com/R1qv8QEHvwg9-DfJaKjN0x-LzjprkN6kEcZooHT9KeU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQzMGUxZWE2NTE1/YjFlMGFkNzViNTYu/cG5n" alt="anon" width="60" height="60" style="max-width: 100%;">
-
-<h1 align="center">
 Languages I Do:
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://imgs.search.brave.com/Gc4o0TZByHDXOrUog0t60tOvt-BmVp3pOLjo8FdPnCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTUyZmNlZjEw/MTRjMGI1ZTQ5Njcu/cG5n" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+</h1>
+
+<h1 align="center">
+My Friends: 
+Ophx:
+<a href="https://ophx.pages.dev" rel="nofollow"> <img src="https://cdn3.emoji.gg/emojis/9879_hackerman.gif" alt="hackerman" width="45" height="45" style="max-width: 100%;"> </a> 
+Raks/Skidmade:
+<a href="https://ammo.lol/skidmade" rel="nofollow"> <img src="https://imgs.search.brave.com/DJGBHm--sIAxnS12VWVfHwJgzGZXb2egjysjpeOoXKU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZS1hcnNlbmFs/LmNvbS9tZW1lcy83/MWJhMTFkZGYzNTFk/MGQ0ZDFlNTlkMzQ1/YjlmMWUzMC5qcGc" alt="hackerman" width="45" height="45" style="max-width: 100%;"> </a> 
+0xtri:
+<a href="https://x.com/trippin0x" rel="nofollow"> <img src="https://imgs.search.brave.com/k1RbGzPrg-FtYv2AJ7sfRyhotYT0QLmviIxuf0ENA1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5ncGxheS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIvSGFj/a2VyLU5vLUJhY2tn/cm91bmQucG5n" alt="hackerman" width="45" height="45" style="max-width: 100%;"> </a> 
 </h1>
 <!---
 remz-13/remz-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
