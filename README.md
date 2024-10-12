@@ -9,11 +9,8 @@
 
 - 🌱 I’m currently learning on getting better at web development....
 
-- 💻 I'm pretty much always online, except from when im away at school, or out with family or friends.
-
-- 📫 How to reach me: my discord: [itsurboylj](https://discordapp.com/users/1197945732594929664) [<img src="https://freepnglogo.com/images/all_img/1708701355discord-icon-png.png" alt="discord" width="23" height="23" style="max-width: 100%;">](https://discordapp.com/users/1197945732594929664), [My Discord Server: Remz.cc](https://discord.gg/g8yzDy27Yd)
-
-
+- 💻 I'm pretty much always online, except from when im away at school, or out with family or friends :)
+- 
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Im Colourblind
