@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning on getting better at web development....
 
 - 💻 I'm pretty much always online, except from when im away at school, or out with family or friends :)
-- 
+
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Im Colourblind
