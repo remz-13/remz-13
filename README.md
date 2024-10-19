@@ -3,7 +3,7 @@
 👋 Yo, I’m remzzz! :)
 </h1>
 
-# > 💻 [My Website](https://remz.nekoweb.org/)
+# > 💻 [My Website](https://iamremz.xyz)
 # 	> 🙃 [My Other Website](https://remz-pages.nekoweb.org/)
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
 
