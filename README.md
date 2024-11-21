@@ -1,6 +1,6 @@
 
 <h1 align="center">
-👋 Yo, I’m remzzz! :)
+👋 Yo, I’m remzzz! (or otherwise known as Lukas!) :)
 </h1>
 
 # > 💻 [My Website (Portfolio)](https://iamremz.xyz)
