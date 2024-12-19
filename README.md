@@ -3,8 +3,8 @@
 👋 Yo, I’m remzzz! (or otherwise known as Lukas!) :)
 </h1>
 
- - 💻 [My Website (Portfolio)](https://lukas-codes.pages.dev) -
- -  🙃 [My Other Website](https://iamremz.xyz/) -
+# - 💻 [My Website (Portfolio)](https://lukas-codes.pages.dev) -
+# -  🙃 [My Other Website](https://iamremz.xyz/) -
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
 
 - 🌱 I’m currently learning on getting better at web development....
