@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
- - 💻 [My Website (Portfolio)](https://lukas-codes.pages.dev) - \n
+ - 💻 [My Website (Portfolio)](https://lukas-codes.pages.dev) -
  -  🙃 [My Other Website](https://iamremz.xyz/) -
 </h2>
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
