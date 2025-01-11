@@ -7,13 +7,13 @@
 # -  🙃 [My Other Website](https://iamremz.xyz/) -
 - 👀 I’m interested in biking, coding, web development, programming and ethical hacking.
 
-- 🌱 I’m currently learning on getting better at web development....
+- 🌱 I’m currently learning getting better at c++ and the windows api...
 
-- 💻 I'm pretty much always online, except from when im away at school, or out with family or friends :)
+- 💻 I'm pretty much always online, except from when I'm away at school, or out with family or friends :)
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Im Colourblind
+- ⚡ Fun fact: I'm Colourblind
 
 - 🐶 I have two dogs: Sunny, Cleo. 
 <ul>
